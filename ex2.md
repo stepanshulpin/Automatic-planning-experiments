@@ -72,3 +72,9 @@ Left counter = 160 Right counter = 159 Time = 1610 millis 34
 
 F150
 Left counter = 269 Right counter = 253 Time = 2874 millis 51
+
+F150
+Left counter = 232 Right counter = 212 Time = 2485 millis 44,5
+
+F150
+Left counter = 349 Right counter = 303 Time = 3426 millis 61
