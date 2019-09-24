@@ -78,3 +78,41 @@ Left counter = 232 Right counter = 212 Time = 2485 millis 44,5
 
 F150
 Left counter = 349 Right counter = 303 Time = 3426 millis 61
+
+
+F150
+Left counter = 321 Right counter = 258 Time = 2095 millis 56,5 !!!!!!!!!!!
+
+F225
+Left counter = 336 Right counter = 300 Time = 1784 millis 64
+
+
+F225
+Left counter = 364 Right counter = 339 Time = 2418 millis 88,7
+
+F200
+Left counter = 473 Right counter = 412 Time = 3198 millis 108,7
+
+F200
+Left counter = 255 Right counter = 236 Time = 1785 millis 60
+
+F175
+Left counter = 251 Right counter = 216 Time = 1718 millis 53,3
+
+F175
+Left counter = 457 Right counter = 416 Time = 3319 millis 102,7
+
+F150
+Left counter = 263 Right counter = 227 Time = 2107 millis 56,5
+
+F150
+Left counter = 242 Right counter = 215 Time = 2094 millis 55,5
+
+F150
+Left counter = 316 Right counter = 275 Time = 2619 millis 69,7
+
+F125
+Left counter = 210 Right counter = 182 Time = 2081 millis 44,5
+
+F125
+Left counter = 404 Right counter = 374 Time = 3910 millis 87,2
