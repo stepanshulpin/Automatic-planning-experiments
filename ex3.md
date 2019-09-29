@@ -78,4 +78,28 @@
     Left path lenght = 44,505 cm Right path lenght = 47,61 cm Left speed = 34,45 cm/s Right speed = 36,85 cm/s  
     Distance 44 cm  
       
+##### F225  
+    Left counter = 15 Right counter = 15 Time = 408 millis  
+    Left path lenght = 15,525 cm Right path lenght = 15,525 cm Left speed = 38,05 cm/s Right speed = 38,05 cm/s  
+    Distance 15.2 cm  
+      
+    Left counter = 39 Right counter = 43 Time = 1106 millis  
+    Left path lenght = 40,365 cm Right path lenght = 44,505 cm Left speed = 36,50 cm/s Right speed = 40,24 cm/s  
+    Distance 40 cm  
+      
+##### F250  
+    Left counter = 40 Right counter = 45 Time = 1053 millis  
+    Left path lenght = 41,4 cm Right path lenght = 46,575 cm Left speed = 39,32 cm/s Right speed = 44,23 cm/s  
+    Distance 42 cm  
+      
+    Left counter = 20 Right counter = 23 Time = 506 millis  
+    Left path lenght = 20,7 cm Right path lenght = 23,805 cm Left speed = 40,91 cm/s Right speed = 47,05 cm/s  
+    Distance 21 cm  
+      
+##### F255  
+    Left counter = 34 Right counter = 41 Time = 865 millis  
+    Left path lenght = 35,19 cm Right path lenght = 42,435 cm Left speed = 40,68 cm/s Right speed = 49,06 cm/s  
+    Distance 37.5 cm  
+    
+### Вывод: расстоянию посчитанному с помощью энкодеров можно верить. Подсчет времени выше произведен неверно, так как не учтена задержка.
 
