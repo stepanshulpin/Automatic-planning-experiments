@@ -50,4 +50,32 @@
       
     Left counter = 69 Right counter = 70 Time = 2402 millis  
     Left path lenght = 71,415 cm Right path lenght = 72,45 cm Left speed = 29,73 cm/s Right speed = 30,16 cm/s  
-    Distance 68 cm  
+    Distance 68 cm     
+   
+##### F175  
+    Left counter = 21 Right counter = 23 Time = 731 millis  
+    Left path lenght = 21,735 cm Right path lenght = 23,805 cm Left speed = 29,73 cm/s Right speed = 32,56 cm/s  
+    Distance 21.5 cm  
+      
+    Left counter = 40 Right counter = 42 Time = 1346 millis   
+    Left path lenght = 41,4 cm Right path lenght = 43,47 cm Left speed = 30,76 cm/s Right speed = 32,30 cm/s  
+    Distance 39.5 cm  
+      
+    Left counter = 53 Right counter = 58 Time = 1816 millis  
+    Left path lenght = 54,855 cm Right path lenght = 60,03 cm Left speed = 30,21 cm/s Right speed = 33,06 cm/s  
+    Distance 55.5 cm  
+      
+##### F200  
+    Left counter = 40 Right counter = 43 Time = 1200 millis   
+    Left path lenght = 41,4 cm Right path lenght = 44,505 cm Left speed = 34,50 cm/s Right speed = 37,09 cm/s  
+    Distance 40 cm  
+      
+    Left counter = 13 Right counter = 14 Time = 410 millis   
+    Left path lenght = 13,455 cm Right path lenght = 14,49 cm Left speed = 32,82 cm/s Right speed = 35,34 cm/s  
+    Distance 13 cm  
+      
+    Left counter = 43 Right counter = 46 Time = 1292 millis  
+    Left path lenght = 44,505 cm Right path lenght = 47,61 cm Left speed = 34,45 cm/s Right speed = 36,85 cm/s  
+    Distance 44 cm  
+      
+
