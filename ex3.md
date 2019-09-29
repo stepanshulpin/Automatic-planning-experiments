@@ -21,6 +21,20 @@
 
 
 ### После добавления задержки после выключения моторов  
+
+##### F125
+    Left counter = 13 Right counter = 13 Time = 638 millis  
+    Left path lenght = 13,455 cm Right path lenght = 13,455 cm Left speed = 21,09 cm/s Right speed = 21,09 cm/s  
+    Distance 13.5 cm  
+      
+    Left counter = 30 Right counter = 33 Time = 1546 millis   
+    Left path lenght = 31,05 cm Right path lenght = 34,155 cm Left speed = 20,08 cm/s Right speed = 22,09 cm/s  
+    Distance 32 cm  
+      
+    Left counter = 30 Right counter = 30 Time = 1467 millis  
+    Left path lenght = 31,05 cm Right path lenght = 31,05 cm Left speed = 21,17 cm/s Right speed = 21,17 cm/s  
+    Distance 31 cm  
+
 ##### F150  
     Left counter = 24 Right counter = 24 Time = 930 millis 
     Left path lenght = 24,84 cm Right path lenght = 24,84 cm Left speed = 26,71 cm/s Right speed = 26,71 cm/s  
