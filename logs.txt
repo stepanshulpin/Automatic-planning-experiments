@@ -1,0 +1,185 @@
+2019-12-17 7:39:48  : AgentData: lls= 90.07 ls= 73.59 fs= 72.14 rs= 71.79 rrs= 96.28 pulsesL= 0 pulsesR= 0 timeInterval= 25574
+2019-12-17 7:39:48  : lls=33,77625 ls=27,59625 fs=27,0525 rs=26,92125 rrs=36,105
+2019-12-17 7:39:48  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:48  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:48  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:48  : AgentData: lls= 90.07 ls= 73.59 fs= 72.14 rs= 71.79 rrs= 96.28 pulsesL= 0 pulsesR= 0 timeInterval= 25634
+2019-12-17 7:39:48  : lls=33,77625 ls=27,59625 fs=27,0525 rs=26,92125 rrs=36,105
+2019-12-17 7:39:48  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:48  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:48  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:48  : AgentData: lls= 90.07 ls= 73.59 fs= 71.79 rs= 71.79 rrs= 96.28 pulsesL= 0 pulsesR= 0 timeInterval= 25760
+2019-12-17 7:39:48  : lls=33,77625 ls=27,59625 fs=26,92125 rs=26,92125 rrs=36,105
+2019-12-17 7:39:48  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:48  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:48  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:48  : AgentData: lls= 90.07 ls= 70.76 fs= 71.79 rs= 71.79 rrs= 96.28 pulsesL= 0 pulsesR= 0 timeInterval= 25886
+2019-12-17 7:39:48  : lls=33,77625 ls=26,535 fs=26,92125 rs=26,92125 rrs=36,105
+2019-12-17 7:39:48  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:48  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:48  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:48  : AgentData: lls= 69.52 ls= 70.76 fs= 71.79 rs= 71.79 rrs= 96.28 pulsesL= 0 pulsesR= 0 timeInterval= 26012
+2019-12-17 7:39:48  : lls=26,07 ls=26,535 fs=26,92125 rs=26,92125 rrs=36,105
+2019-12-17 7:39:48  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:48  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:48  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= 69.52 ls= 70.76 fs= 71.79 rs= 55.79 rrs= 65.10 pulsesL= 0 pulsesR= 0 timeInterval= 26207
+2019-12-17 7:39:49  : lls=26,07 ls=26,535 fs=26,92125 rs=20,92125 rrs=24,4125
+2019-12-17 7:39:49  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= 69.52 ls= 70.76 fs= 71.79 rs= 55.79 rrs= 65.10 pulsesL= 0 pulsesR= 0 timeInterval= 26293
+2019-12-17 7:39:49  : lls=26,07 ls=26,535 fs=26,92125 rs=20,92125 rrs=24,4125
+2019-12-17 7:39:49  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= 69.52 ls= 49.93 fs= 53.24 rs= 55.79 rrs= 65.10 pulsesL= 0 pulsesR= 0 timeInterval= 26480
+2019-12-17 7:39:49  : lls=26,07 ls=18,72375 fs=19,965 rs=20,92125 rrs=24,4125
+2019-12-17 7:39:49  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= 69.52 ls= 49.93 fs= 53.24 rs= 55.79 rrs= 65.10 pulsesL= 0 pulsesR= 0 timeInterval= 26565
+2019-12-17 7:39:49  : lls=26,07 ls=18,72375 fs=19,965 rs=20,92125 rrs=24,4125
+2019-12-17 7:39:49  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= -1.00 ls= 49.93 fs= 53.24 rs= 55.79 rrs= 65.10 pulsesL= 0 pulsesR= 0 timeInterval= 26752
+2019-12-17 7:39:49  : lls=26,07 ls=18,72375 fs=19,965 rs=20,92125 rrs=24,4125
+2019-12-17 7:39:49  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= -1.00 ls= 49.93 fs= 53.24 rs= 55.79 rrs= 45.03 pulsesL= 0 pulsesR= 0 timeInterval= 26839
+2019-12-17 7:39:49  : lls=26,07 ls=18,72375 fs=19,965 rs=20,92125 rrs=16,88625
+2019-12-17 7:39:49  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= -1.00 ls= 49.93 fs= 31.59 rs= 35.52 rrs= 45.03 pulsesL= 0 pulsesR= 0 timeInterval= 27025
+2019-12-17 7:39:49  : lls=26,07 ls=18,72375 fs=11,84625 rs=13,32 rrs=16,88625
+2019-12-17 7:39:49  : rotationAngle: 7,44998E-16, movementSpeed: 30,97939
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,97939, rsHelper.getLeft(): 30,97939
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:49  : AgentData: lls= -1.00 ls= 49.93 fs= 31.59 rs= 35.52 rrs= 45.03 pulsesL= 0 pulsesR= 0 timeInterval= 27111
+2019-12-17 7:39:49  : lls=26,07 ls=18,72375 fs=11,84625 rs=13,32 rrs=16,88625
+2019-12-17 7:39:49  : rotationAngle: 7,44998E-16, movementSpeed: 30,97939
+2019-12-17 7:39:49  : rsHelper.getRight(): 30,97939, rsHelper.getLeft(): 30,97939
+2019-12-17 7:39:49  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:39:50  : AgentData: lls= 25.24 ls= 26.83 fs= 31.59 rs= 35.52 rrs= 45.03 pulsesL= 0 pulsesR= 0 timeInterval= 27297
+2019-12-17 7:39:50  : lls=9,465 ls=10,06125 fs=11,84625 rs=13,32 rrs=16,88625
+2019-12-17 7:39:50  : rotationAngle: -7,228227E-16, movementSpeed: 30,78464
+2019-12-17 7:39:50  : rsHelper.getRight(): 30,78464, rsHelper.getLeft(): 30,78464
+2019-12-17 7:39:50  : rightSpeed: 173, leftSpeed: 173
+2019-12-17 7:39:50  : AgentData: lls= 25.24 ls= 26.83 fs= 31.59 rs= 35.52 rrs= 45.03 pulsesL= 0 pulsesR= 0 timeInterval= 27383
+2019-12-17 7:39:50  : lls=9,465 ls=10,06125 fs=11,84625 rs=13,32 rrs=16,88625
+2019-12-17 7:39:50  : rotationAngle: -7,228227E-16, movementSpeed: 30,78464
+2019-12-17 7:39:50  : rsHelper.getRight(): 30,78464, rsHelper.getLeft(): 30,78464
+2019-12-17 7:39:50  : rightSpeed: 173, leftSpeed: 173
+2019-12-17 7:39:50  : AgentData: lls= 25.24 ls= 26.83 fs= 31.59 rs= 13.10 rrs= -1.00 pulsesL= 0 pulsesR= 0 timeInterval= 27570
+2019-12-17 7:39:50  : lls=9,465 ls=10,06125 fs=11,84625 rs=4,9125 rrs=16,88625
+2019-12-17 7:39:50  : rotationAngle: -32,2269, movementSpeed: 16
+2019-12-17 7:39:50  : rsHelper.getRight(): 16, rsHelper.getLeft(): 0
+2019-12-17 7:39:50  : rightSpeed: 0, leftSpeed: 0
+2019-12-17 7:39:50  : AgentData: lls= 25.24 ls= 26.83 fs= 31.59 rs= 13.10 rrs= -1.00 pulsesL= 0 pulsesR= 0 timeInterval= 27656
+2019-12-17 7:39:50  : lls=9,465 ls=10,06125 fs=11,84625 rs=4,9125 rrs=16,88625
+2019-12-17 7:39:50  : rotationAngle: -32,2269, movementSpeed: 16
+2019-12-17 7:39:50  : rsHelper.getRight(): 16, rsHelper.getLeft(): 0
+2019-12-17 7:39:50  : rightSpeed: 0, leftSpeed: 0
+2019-12-17 7:39:50  : AgentData: lls= 25.24 ls= 4.62 fs= 9.45 rs= 13.10 rrs= -1.00 pulsesL= 0 pulsesR= 0 timeInterval= 27842
+2019-12-17 7:39:50  : lls=9,465 ls=1,7325 fs=3,54375 rs=4,9125 rrs=16,88625
+2019-12-17 7:39:50  : rotationAngle: 4,368392, movementSpeed: 11,25214
+2019-12-17 7:39:50  : rsHelper.getRight(): 11,25214, rsHelper.getLeft(): 11,25214
+2019-12-17 7:39:50  : rightSpeed: 0, leftSpeed: 0
+2019-12-17 7:39:50  : AgentData: lls= 25.24 ls= 4.62 fs= 9.45 rs= 13.10 rrs= -1.00 pulsesL= 0 pulsesR= 0 timeInterval= 27926
+2019-12-17 7:39:50  : lls=9,465 ls=1,7325 fs=3,54375 rs=4,9125 rrs=16,88625
+2019-12-17 7:39:50  : rotationAngle: 4,368392, movementSpeed: 11,25214
+2019-12-17 7:39:50  : rsHelper.getRight(): 11,25214, rsHelper.getLeft(): 11,25214
+2019-12-17 7:39:50  : rightSpeed: 0, leftSpeed: 0
+2019-12-17 7:53:31  : AgentData: lls= 77.93 ls= 71.66 fs= 72.14 rs= 71.45 rrs= 75.10 pulsesL= 0 pulsesR= 0 timeInterval= 10734
+2019-12-17 7:53:31  : lls=23,379 ls=21,498 fs=21,642 rs=21,435 rrs=22,53
+2019-12-17 7:53:31  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:31  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:31  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:31  : AgentData: lls= 77.93 ls= 71.66 fs= 72.14 rs= 71.45 rrs= 75.10 pulsesL= 0 pulsesR= 0 timeInterval= 10795
+2019-12-17 7:53:31  : lls=23,379 ls=21,498 fs=21,642 rs=21,435 rrs=22,53
+2019-12-17 7:53:31  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:31  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:31  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 76.34 ls= 71.66 fs= 72.14 rs= 71.45 rrs= 75.10 pulsesL= 0 pulsesR= 0 timeInterval= 10920
+2019-12-17 7:53:32  : lls=22,902 ls=21,498 fs=21,642 rs=21,435 rrs=22,53
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 76.34 ls= 71.66 fs= 72.14 rs= 71.45 rrs= 71.24 pulsesL= 0 pulsesR= 0 timeInterval= 11046
+2019-12-17 7:53:32  : lls=22,902 ls=21,498 fs=21,642 rs=21,435 rrs=21,372
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 76.34 ls= 71.66 fs= 60.62 rs= 65.31 rrs= 71.24 pulsesL= 0 pulsesR= 0 timeInterval= 11233
+2019-12-17 7:53:32  : lls=22,902 ls=21,498 fs=18,186 rs=19,593 rrs=21,372
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 76.34 ls= 71.66 fs= 60.62 rs= 65.31 rrs= 71.24 pulsesL= 0 pulsesR= 0 timeInterval= 11319
+2019-12-17 7:53:32  : lls=22,902 ls=21,498 fs=18,186 rs=19,593 rrs=21,372
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 51.93 ls= 56.00 fs= 60.62 rs= 65.31 rrs= 71.24 pulsesL= 0 pulsesR= 0 timeInterval= 11506
+2019-12-17 7:53:32  : lls=15,579 ls=16,8 fs=18,186 rs=19,593 rrs=21,372
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 51.93 ls= 56.00 fs= 60.62 rs= 65.31 rrs= 71.24 pulsesL= 0 pulsesR= 0 timeInterval= 11591
+2019-12-17 7:53:32  : lls=15,579 ls=16,8 fs=18,186 rs=19,593 rrs=21,372
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 51.93 ls= 56.00 fs= 60.62 rs= 48.21 rrs= 95.45 pulsesL= 0 pulsesR= 0 timeInterval= 11778
+2019-12-17 7:53:32  : lls=15,579 ls=16,8 fs=18,186 rs=14,463 rrs=28,635
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:32  : AgentData: lls= 51.93 ls= 56.00 fs= 60.62 rs= 48.21 rrs= 95.45 pulsesL= 0 pulsesR= 0 timeInterval= 11865
+2019-12-17 7:53:32  : lls=15,579 ls=16,8 fs=18,186 rs=14,463 rrs=28,635
+2019-12-17 7:53:32  : rotationAngle: 2,279637E-15, movementSpeed: 30,98111
+2019-12-17 7:53:32  : rsHelper.getRight(): 30,98111, rsHelper.getLeft(): 30,98111
+2019-12-17 7:53:32  : rightSpeed: 175, leftSpeed: 175
+2019-12-17 7:53:33  : AgentData: lls= 51.93 ls= 36.07 fs= 40.90 rs= 48.21 rrs= 95.45 pulsesL= 0 pulsesR= 0 timeInterval= 12051
+2019-12-17 7:53:33  : lls=15,579 ls=10,821 fs=12,27 rs=14,463 rrs=28,635
+2019-12-17 7:53:33  : rotationAngle: -4,488217E-16, movementSpeed: 30,90019
+2019-12-17 7:53:33  : rsHelper.getRight(): 30,90019, rsHelper.getLeft(): 30,90019
+2019-12-17 7:53:33  : rightSpeed: 174, leftSpeed: 174
+2019-12-17 7:53:33  : AgentData: lls= 51.93 ls= 36.07 fs= 40.90 rs= 48.21 rrs= 95.45 pulsesL= 0 pulsesR= 0 timeInterval= 12137
+2019-12-17 7:53:33  : lls=15,579 ls=10,821 fs=12,27 rs=14,463 rrs=28,635
+2019-12-17 7:53:33  : rotationAngle: -4,488217E-16, movementSpeed: 30,90019
+2019-12-17 7:53:33  : rsHelper.getRight(): 30,90019, rsHelper.getLeft(): 30,90019
+2019-12-17 7:53:33  : rightSpeed: 174, leftSpeed: 174
+2019-12-17 7:53:33  : AgentData: lls= 30.83 ls= 36.07 fs= 40.90 rs= 48.21 rrs= 76.00 pulsesL= 0 pulsesR= 0 timeInterval= 12323
+2019-12-17 7:53:33  : lls=9,249 ls=10,821 fs=12,27 rs=14,463 rrs=22,8
+2019-12-17 7:53:33  : rotationAngle: -4,488217E-16, movementSpeed: 30,90019
+2019-12-17 7:53:33  : rsHelper.getRight(): 30,90019, rsHelper.getLeft(): 30,90019
+2019-12-17 7:53:33  : rightSpeed: 174, leftSpeed: 174
+2019-12-17 7:53:33  : AgentData: lls= 30.83 ls= 36.07 fs= 40.90 rs= 48.21 rrs= 76.00 pulsesL= 0 pulsesR= 0 timeInterval= 12409
+2019-12-17 7:53:33  : lls=9,249 ls=10,821 fs=12,27 rs=14,463 rrs=22,8
+2019-12-17 7:53:33  : rotationAngle: -4,488217E-16, movementSpeed: 30,90019
+2019-12-17 7:53:33  : rsHelper.getRight(): 30,90019, rsHelper.getLeft(): 30,90019
+2019-12-17 7:53:33  : rightSpeed: 174, leftSpeed: 174
+2019-12-17 7:53:33  : AgentData: lls= 30.83 ls= 36.07 fs= 24.90 rs= 30.69 rrs= 76.00 pulsesL= 0 pulsesR= 0 timeInterval= 12596
+2019-12-17 7:53:33  : lls=9,249 ls=10,821 fs=7,47 rs=9,207 rrs=22,8
+2019-12-17 7:53:33  : rotationAngle: 1,576424E-15, movementSpeed: 24,38787
+2019-12-17 7:53:33  : rsHelper.getRight(): 24,38787, rsHelper.getLeft(): 24,38787
+2019-12-17 7:53:33  : rightSpeed: 120, leftSpeed: 120
+2019-12-17 7:53:33  : AgentData: lls= 30.83 ls= 36.07 fs= 24.90 rs= 30.69 rrs= 76.00 pulsesL= 0 pulsesR= 0 timeInterval= 12682
+2019-12-17 7:53:33  : lls=9,249 ls=10,821 fs=7,47 rs=9,207 rrs=22,8
+2019-12-17 7:53:33  : rotationAngle: 1,576424E-15, movementSpeed: 24,38787
+2019-12-17 7:53:33  : rsHelper.getRight(): 24,38787, rsHelper.getLeft(): 24,38787
+2019-12-17 7:53:33  : rightSpeed: 120, leftSpeed: 120
+2019-12-17 7:53:33  : AgentData: lls= 11.24 ls= 17.52 fs= 24.90 rs= 30.69 rrs= 76.00 pulsesL= 0 pulsesR= 0 timeInterval= 12868
+2019-12-17 7:53:33  : lls=3,372 ls=5,256 fs=7,47 rs=9,207 rrs=22,8
+2019-12-17 7:53:33  : rotationAngle: 33,13534, movementSpeed: 15,99272
+2019-12-17 7:53:33  : rsHelper.getRight(): 0, rsHelper.getLeft(): 15,99272
+2019-12-17 7:53:33  : rightSpeed: 0, leftSpeed: 0
+2019-12-17 7:53:34  : AgentData: lls= 11.24 ls= 17.52 fs= 24.90 rs= 30.69 rrs= 76.00 pulsesL= 0 pulsesR= 0 timeInterval= 12954
+2019-12-17 7:53:34  : lls=3,372 ls=5,256 fs=7,47 rs=9,207 rrs=22,8
+2019-12-17 7:53:34  : rotationAngle: 33,13534, movementSpeed: 15,99272
+2019-12-17 7:53:34  : rsHelper.getRight(): 0, rsHelper.getLeft(): 15,99272
+2019-12-17 7:53:34  : rightSpeed: 0, leftSpeed: 0
